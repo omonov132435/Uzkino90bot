@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Qonli Kumush",
+    "description": "Jangari, Drama",
+    "url": "https://uzmovi.uz/example1",
+    "is_vip": true
+  },
+  {
+    "title": "Rashmi Raketa / Ayol Qismati",
+    "description": "Drama, Biografik",
+    "url": "https://uzmovi.uz/example2",
+    "is_vip": true
+  },
+  {
+    "title": "Shamoldan Tez / Tezroq",
+    "description": "Sport, Drama",
+    "url": "https://uzmovi.uz/example3",
+    "is_vip": false
+  }
+]
